@@ -1,0 +1,48 @@
+2015-02-19 15:35:55 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 15:35:55 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 15:35:56 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 15:35:56 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:29:47 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:29:47 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:29:48 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:29:48 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:30:19 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:30:19 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:31:29 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:31:29 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:31:30 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:31:30 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:36:05 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:36:05 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:36:06 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:36:06 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:16 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:16 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:17 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:17 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:26 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:26 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:27 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:27 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:38 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:38 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:39 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:39 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:39 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:39 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:45 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:39:45 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:40:09 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:40:09 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:52:57 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:52:57 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:53:20 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:53:20 - PHP Notice:  Undefined variable: span in /home/maina18/public_html/dow/catalog/view/theme/pav_clothes/template/module/pavbloglatest.tpl on line 7
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 59
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 60
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 67
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 68
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 72
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 73
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 78
+2015-02-19 16:53:47 - PHP Notice:  Use of undefined constant HTTPS_CATALOG - assumed 'HTTPS_CATALOG' in /home/maina18/public_html/dow/admin/view/template/module/pavblog/panel.tpl on line 79
